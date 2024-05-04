@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="205" src="https://i.pinimg.com/originals/75/72/1f/75721f091a67ea21413a5ce8f13701d1.jpg"  />
+<div align="center">
+  <img height="205" src="https://i.pinimg.com/originals/75/72/1f/75721f091a67ea21413a5ce8f13701d1.jpg"  />
+</div>
 
 ###
 
@@ -101,5 +103,15 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Martoh003/Martoh003/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Martoh003/count.svg?"  />
+</div>
+
+###
+
+<h2 align="center">I Hope you are delighted<br>I am Opium and I Love Music <br>HXG. YVL</h2>
 
 ###
