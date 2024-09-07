@@ -59,9 +59,10 @@
   <a href="www.linkedin.com/in/martin-abwaka-b98a12229" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=MARTIN%20ABWAKA&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/DirtyMarto" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=%F0%9D%95%B8%F0%9D%95%AC%F0%9D%95%BD%F0%9D%95%BF%F0%9D%95%BA&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  <<a href="https://twitter.com/DirtyMarto" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=f1lthy555&color=blue&logoColor=&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+
   <a href="https://www.youtube.com/@Wellth_Journey" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=MAVEDI&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
