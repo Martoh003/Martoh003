@@ -59,13 +59,13 @@
   <a href="www.linkedin.com/in/martin-abwaka-b98a12229" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=MARTIN%20ABWAKA&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/home" target="_blank">
+  <a href="https://x.com/DirtyMarto" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=%F0%9D%95%B8%F0%9D%95%AC%F0%9D%95%BD%F0%9D%95%BF%F0%9D%95%BA&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.youtube.com/@Mav_Carsdas" target="_blank">
+  <a href="https://www.youtube.com/@Wellth_Journey" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=MAVEDI&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+  <a href="https://mailto:martinezquavixx@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=martinezquavixx@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
